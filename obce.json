@@ -1070,16 +1070,6 @@
     "KRAJ": "ZI"
   },
   {
-    "DOBEC": "Belá-Dulice - Dulice",
-    "OBEC": "Dulice",
-    "OKRES": "Martin",
-    "PSC": "038 11",
-    "DPOSTA": "Belá pri Martine",
-    "POSTA": "Belá pri Martine",
-    "KOD_OKR": 506,
-    "KRAJ": "ZI"
-  },
-  {
     "DOBEC": "Belejovce",
     "OBEC": "Belejovce",
     "OKRES": "Svidník",
@@ -3600,32 +3590,12 @@
     "KRAJ": "PV"
   },
   {
-    "DOBEC": "Cabaj - Čápor",
+    "DOBEC": "Cabaj-Čápor",
     "OBEC": "Cabaj - Čápor",
     "OKRES": "Nitra",
     "PSC": "951 17",
-    "DPOSTA": "Cabaj- Čápor",
-    "POSTA": "Cabaj- Čápor",
-    "KOD_OKR": 403,
-    "KRAJ": "NI"
-  },
-  {
-    "DOBEC": "Cabaj-Čápor - Cabaj",
-    "OBEC": "Cabaj",
-    "OKRES": "Nitra",
-    "PSC": "951 17",
-    "DPOSTA": "Cabaj- Čápor",
-    "POSTA": "Cabaj- Čápor",
-    "KOD_OKR": 403,
-    "KRAJ": "NI"
-  },
-  {
-    "DOBEC": "Cabaj-Čápor - Čápor",
-    "OBEC": "Čápor",
-    "OKRES": "Nitra",
-    "PSC": "951 17",
-    "DPOSTA": "Cabaj- Čápor",
-    "POSTA": "Cabaj- Čápor",
+    "DPOSTA": "Cabaj-Čápor",
+    "POSTA": "Cabaj-Čápor",
     "KOD_OKR": 403,
     "KRAJ": "NI"
   },
@@ -6874,8 +6844,8 @@
     "OBEC": "Dubodiel",
     "OKRES": "Trenčín",
     "PSC": "913 23",
-    "DPOSTA": "Dubodiel",
-    "POSTA": "Dubodiel",
+    "DPOSTA": "Trenčianske Jastrabie",
+    "POSTA": "Trenčianske Jastrabie",
     "KOD_OKR": 309,
     "KRAJ": "TC"
   },
@@ -7380,16 +7350,6 @@
     "KRAJ": "TA"
   },
   {
-    "DOBEC": "Dvorníky",
-    "OBEC": "Dvorníky",
-    "OKRES": "Košice - okolie",
-    "PSC": "044 02",
-    "DPOSTA": "Turňa nad Bodvou",
-    "POSTA": "Turňa nad Bodvou",
-    "KOD_OKR": 806,
-    "KRAJ": "KI"
-  },
-  {
     "DOBEC": "Dvorníky - Posádka",
     "OBEC": "Posádka",
     "OKRES": "Hlohovec",
@@ -7400,7 +7360,7 @@
     "KRAJ": "TA"
   },
   {
-    "DOBEC": "Dvorníky - Včeláre",
+    "DOBEC": "Dvorníky-Včeláre",
     "OBEC": "Dvorníky - Včeláre",
     "OKRES": "Košice - okolie",
     "PSC": "044 02",
@@ -8140,7 +8100,7 @@
     "KRAJ": "KI"
   },
   {
-    "DOBEC": "Granč - Petrovce",
+    "DOBEC": "Granč-Petrovce",
     "OBEC": "Granč - Petrovce",
     "OKRES": "Levoča",
     "PSC": "053 05",
@@ -8348,26 +8308,6 @@
     "POSTA": "Bošáca",
     "KOD_OKR": 304,
     "KRAJ": "TC"
-  },
-  {
-    "DOBEC": "Hámre - Dolné Hámre",
-    "OBEC": "Hámre - Dolné Hámre",
-    "OKRES": "Žarnovica",
-    "PSC": "966 61",
-    "DPOSTA": "Hodruša-Hámre 1",
-    "POSTA": "Hodruša-Hámre 1",
-    "KOD_OKR": 612,
-    "KRAJ": "BC"
-  },
-  {
-    "DOBEC": "Hámre - Horné Hámre",
-    "OBEC": "Hámre - Horné Hámre",
-    "OKRES": "Žarnovica",
-    "PSC": "966 71",
-    "DPOSTA": "Horné Hámre",
-    "POSTA": "Horné Hámre",
-    "KOD_OKR": 612,
-    "KRAJ": "BC"
   },
   {
     "DOBEC": "Hamuliakovo",
@@ -8980,7 +8920,7 @@
     "KRAJ": "KI"
   },
   {
-    "DOBEC": "Hodruša - Hámre",
+    "DOBEC": "Hodruša-Hámre",
     "OBEC": "Hodruša - Hámre",
     "OKRES": "Žarnovica",
     "PSC": "966 61",
@@ -9006,6 +8946,16 @@
     "PSC": "966 61",
     "DPOSTA": "Hodruša-Hámre 1",
     "POSTA": "Hodruša-Hámre 1",
+    "KOD_OKR": 612,
+    "KRAJ": "BC"
+  },
+  {
+    "DOBEC": "Horné Hámre",
+    "OBEC": "Horné Hámre",
+    "OKRES": "Žarnovica",
+    "PSC": "966 71",
+    "DPOSTA": "Horné Hámre",
+    "POSTA": "Horné Hámre",
     "KOD_OKR": 612,
     "KRAJ": "BC"
   },
@@ -10853,9 +10803,9 @@
     "DOBEC": "Hrubá Borša",
     "OBEC": "Hrubá Borša",
     "OKRES": "Senec",
-    "PSC": "925 23",
-    "DPOSTA": "Jelka",
-    "POSTA": "Jelka",
+    "PSC": "900 50",
+    "DPOSTA": "Kráľová pri Senci",
+    "POSTA": "Kráľová pri Senci",
     "KOD_OKR": 108,
     "KRAJ": "BL"
   },
@@ -11430,16 +11380,6 @@
     "KRAJ": "TC"
   },
   {
-    "DOBEC": "Chocholná-Velčice - Kykula",
-    "OBEC": "Kykula",
-    "OKRES": "Trenčín",
-    "PSC": "913 04",
-    "DPOSTA": "Chocholná-Velčice",
-    "POSTA": "Chocholná-Velčice",
-    "KOD_OKR": 309,
-    "KRAJ": "TC"
-  },
-  {
     "DOBEC": "Choňkovce",
     "OBEC": "Choňkovce",
     "OKRES": "Sobrance",
@@ -11550,7 +11490,7 @@
     "KRAJ": "NI"
   },
   {
-    "DOBEC": "Chrenovec - Brusno",
+    "DOBEC": "Chrenovec-Brusno",
     "OBEC": "Chrenovec - Brusno",
     "OKRES": "Prievidza",
     "PSC": "972 32",
@@ -14090,7 +14030,7 @@
     "KRAJ": "PV"
   },
   {
-    "DOBEC": "Kokšov - Bakša",
+    "DOBEC": "Kokšov-Bakša",
     "OBEC": "Kokšov - Bakša",
     "OKRES": "Košice - okolie",
     "PSC": "044 13",
@@ -14740,7 +14680,7 @@
     "KRAJ": "BL"
   },
   {
-    "DOBEC": "Kostolná - Záriečie",
+    "DOBEC": "Kostolná-Záriečie",
     "OBEC": "Kostolná - Záriečie",
     "OKRES": "Trenčín",
     "PSC": "913 04",
@@ -15740,28 +15680,8 @@
     "KRAJ": "KI"
   },
   {
-    "DOBEC": "Kráľovce - Krnišov",
+    "DOBEC": "Kráľovce-Krnišov",
     "OBEC": "Kráľovce - Krnišov",
-    "OKRES": "Krupina",
-    "PSC": "962 65",
-    "DPOSTA": "Hontianske Nemce",
-    "POSTA": "Hontianske Nemce",
-    "KOD_OKR": 605,
-    "KRAJ": "BC"
-  },
-  {
-    "DOBEC": "Kráľovce-Krnišov - Kráľovce",
-    "OBEC": "Kráľovce",
-    "OKRES": "Krupina",
-    "PSC": "962 65",
-    "DPOSTA": "Hontianske Nemce",
-    "POSTA": "Hontianske Nemce",
-    "KOD_OKR": 605,
-    "KRAJ": "BC"
-  },
-  {
-    "DOBEC": "Kráľovce-Krnišov - Krnišov",
-    "OBEC": "Krnišov",
     "OKRES": "Krupina",
     "PSC": "962 65",
     "DPOSTA": "Hontianske Nemce",
@@ -15780,58 +15700,8 @@
     "KRAJ": "TA"
   },
   {
-    "DOBEC": "Kráľovičove Kračany - Etreho Kračany",
-    "OBEC": "Etreho Kračany",
-    "OKRES": "Dunajská Streda",
-    "PSC": "930 03",
-    "DPOSTA": "Kráľovičove Kračany",
-    "POSTA": "Kráľovičove Kračany",
-    "KOD_OKR": 201,
-    "KRAJ": "TA"
-  },
-  {
-    "DOBEC": "Kráľovičove Kračany - Jastrabie Kračany",
-    "OBEC": "Jastrabie Kračany",
-    "OKRES": "Dunajská Streda",
-    "PSC": "930 03",
-    "DPOSTA": "Kráľovičove Kračany",
-    "POSTA": "Kráľovičove Kračany",
-    "KOD_OKR": 201,
-    "KRAJ": "TA"
-  },
-  {
-    "DOBEC": "Kráľovičove Kračany - Kľúčiarove Kračany",
-    "OBEC": "Kľúčiarove Kračany",
-    "OKRES": "Dunajská Streda",
-    "PSC": "930 03",
-    "DPOSTA": "Kráľovičove Kračany",
-    "POSTA": "Kráľovičove Kračany",
-    "KOD_OKR": 201,
-    "KRAJ": "TA"
-  },
-  {
-    "DOBEC": "Kráľovičove Kračany - Lesné Kračany",
-    "OBEC": "Lesné Kračany",
-    "OKRES": "Dunajská Streda",
-    "PSC": "930 03",
-    "DPOSTA": "Kráľovičove Kračany",
-    "POSTA": "Kráľovičove Kračany",
-    "KOD_OKR": 201,
-    "KRAJ": "TA"
-  },
-  {
     "DOBEC": "Kráľovský Chlmec",
     "OBEC": "Kráľovský Chlmec",
-    "OKRES": "Trebišov",
-    "PSC": "077 01",
-    "DPOSTA": "Kráľovský Chlmec 1",
-    "POSTA": "Kráľovský Chlmec 1",
-    "KOD_OKR": 811,
-    "KRAJ": "KI"
-  },
-  {
-    "DOBEC": "Kráľovský Chlmec - Fejséš",
-    "OBEC": "Fejséš",
     "OKRES": "Trebišov",
     "PSC": "077 01",
     "DPOSTA": "Kráľovský Chlmec 1",
@@ -16160,7 +16030,7 @@
     "KRAJ": "TC"
   },
   {
-    "DOBEC": "Krivosúd - Bodovka",
+    "DOBEC": "Krivosúd-Bodovka",
     "OBEC": "Krivosúd - Bodovka",
     "OKRES": "Trenčín",
     "PSC": "913 11",
@@ -18770,28 +18640,8 @@
     "KRAJ": "BC"
   },
   {
-    "DOBEC": "Lovčica - Trubín",
+    "DOBEC": "Lovčica-Trubín",
     "OBEC": "Lovčica - Trubín",
-    "OKRES": "Žiar nad Hronom",
-    "PSC": "966 23",
-    "DPOSTA": "Lovčica-Trubín",
-    "POSTA": "Lovčica-Trubín",
-    "KOD_OKR": 613,
-    "KRAJ": "BC"
-  },
-  {
-    "DOBEC": "Lovčica-Trubín - Lovčica",
-    "OBEC": "Lovčica",
-    "OKRES": "Žiar nad Hronom",
-    "PSC": "966 23",
-    "DPOSTA": "Lovčica-Trubín",
-    "POSTA": "Lovčica-Trubín",
-    "KOD_OKR": 613,
-    "KRAJ": "BC"
-  },
-  {
-    "DOBEC": "Lovčica-Trubín - Trubín",
-    "OBEC": "Trubín",
     "OKRES": "Žiar nad Hronom",
     "PSC": "966 23",
     "DPOSTA": "Lovčica-Trubín",
@@ -19106,6 +18956,16 @@
     "PSC": "059 31",
     "DPOSTA": "Lučivná 1",
     "POSTA": "Lučivná 1",
+    "KOD_OKR": 706,
+    "KRAJ": "PV"
+  },
+  {
+    "DOBEC": "Lučivná - Lopušná Dolina",
+    "OBEC": "Lučivná-Lopušná Dolina",
+    "OKRES": "Poprad",
+    "PSC": "059 21",
+    "DPOSTA": "Svit 1",
+    "POSTA": "Svit 1",
     "KOD_OKR": 706,
     "KRAJ": "PV"
   },
@@ -22200,28 +22060,8 @@
     "KRAJ": "ZI"
   },
   {
-    "DOBEC": "Nedožery - Brezany",
+    "DOBEC": "Nedožery-Brezany",
     "OBEC": "Nedožery - Brezany",
-    "OKRES": "Prievidza",
-    "PSC": "972 12",
-    "DPOSTA": "Nedožery",
-    "POSTA": "Nedožery",
-    "KOD_OKR": 307,
-    "KRAJ": "TC"
-  },
-  {
-    "DOBEC": "Nedožery-Brezany - Brezany",
-    "OBEC": "Brezany",
-    "OKRES": "Prievidza",
-    "PSC": "972 12",
-    "DPOSTA": "Nedožery",
-    "POSTA": "Nedožery",
-    "KOD_OKR": 307,
-    "KRAJ": "TC"
-  },
-  {
-    "DOBEC": "Nedožery-Brezany - Nedožery",
-    "OBEC": "Nedožery",
     "OKRES": "Prievidza",
     "PSC": "972 12",
     "DPOSTA": "Nedožery",
@@ -24825,7 +24665,37 @@
     "OKRES": "Rimavská Sobota",
     "PSC": "980 11",
     "DPOSTA": "Ožďany",
-    "POSTA": "Ožďany",
+    "POSTA": "pozri detail SČ",
+    "KOD_OKR": 609,
+    "KRAJ": "BC"
+  },
+  {
+    "DOBEC": "Ožďany - Antalka",
+    "OBEC": "Ožďany",
+    "OKRES": "Rimavská Sobota",
+    "PSC": "979 01",
+    "DPOSTA": "Rimavská Sobota 1",
+    "POSTA": "pozri detail SČ",
+    "KOD_OKR": 609,
+    "KRAJ": "BC"
+  },
+  {
+    "DOBEC": "Ožďany - Čierna Lúka",
+    "OBEC": "Ožďany",
+    "OKRES": "Rimavská Sobota",
+    "PSC": "979 01",
+    "DPOSTA": "Rimavská Sobota 1",
+    "POSTA": "pozri detail SČ",
+    "KOD_OKR": 609,
+    "KRAJ": "BC"
+  },
+  {
+    "DOBEC": "Ožďany - Molnárka",
+    "OBEC": "Ožďany",
+    "OKRES": "Rimavská Sobota",
+    "PSC": "979 01",
+    "DPOSTA": "Rimavská Sobota 1",
+    "POSTA": "pozri detail SČ",
     "KOD_OKR": 609,
     "KRAJ": "BC"
   },
@@ -25390,7 +25260,7 @@
     "KRAJ": "KI"
   },
   {
-    "DOBEC": "Perín - Chym",
+    "DOBEC": "Perín-Chym",
     "OBEC": "Perín - Chym",
     "OKRES": "Košice - okolie",
     "PSC": "044 74",
@@ -25820,7 +25690,7 @@
     "KRAJ": "KI"
   },
   {
-    "DOBEC": "Plevník - Drienové",
+    "DOBEC": "Plevník-Drienové",
     "OBEC": "Plevník - Drienové",
     "OKRES": "Považská Bystrica",
     "PSC": "018 26",
@@ -29740,28 +29610,8 @@
     "KRAJ": "NI"
   },
   {
-    "DOBEC": "Sebedín - Bečov",
+    "DOBEC": "Sebedín-Bečov",
     "OBEC": "Sebedín - Bečov",
-    "OKRES": "Banská Bystrica",
-    "PSC": "974 01",
-    "DPOSTA": "Banská Bystrica 1",
-    "POSTA": "Banská Bystrica 1",
-    "KOD_OKR": 601,
-    "KRAJ": "BC"
-  },
-  {
-    "DOBEC": "Sebedín-Bečov - Bečov",
-    "OBEC": "Bečov",
-    "OKRES": "Banská Bystrica",
-    "PSC": "974 01",
-    "DPOSTA": "Banská Bystrica 1",
-    "POSTA": "Banská Bystrica 1",
-    "KOD_OKR": 601,
-    "KRAJ": "BC"
-  },
-  {
-    "DOBEC": "Sebedín-Bečov - Sebedín",
-    "OBEC": "Sebedín",
     "OKRES": "Banská Bystrica",
     "PSC": "974 01",
     "DPOSTA": "Banská Bystrica 1",
@@ -31733,9 +31583,9 @@
     "DOBEC": "Staškov",
     "OBEC": "Staškov",
     "OKRES": "Čadca",
-    "PSC": "023 53",
-    "DPOSTA": "Staškov",
-    "POSTA": "Staškov",
+    "PSC": "",
+    "DPOSTA": "",
+    "POSTA": "pozri detail SČ",
     "KOD_OKR": 502,
     "KRAJ": "ZI"
   },
@@ -31775,7 +31625,7 @@
     "OKRES": "Detva",
     "PSC": "",
     "DPOSTA": "",
-    "POSTA": "Pozri zoz.ulíc s PSČ",
+    "POSTA": "pozri detail SČ",
     "KOD_OKR": 604,
     "KRAJ": "BC"
   },
@@ -32880,28 +32730,8 @@
     "KRAJ": "PV"
   },
   {
-    "DOBEC": "Šaštín - Stráže",
+    "DOBEC": "Šaštín-Stráže",
     "OBEC": "Šaštín - Stráže",
-    "OKRES": "Senica",
-    "PSC": "908 41",
-    "DPOSTA": "Šaštín-Stráže 1",
-    "POSTA": "Šaštín-Stráže 1",
-    "KOD_OKR": 205,
-    "KRAJ": "TA"
-  },
-  {
-    "DOBEC": "Šaštín-Stráže - Stráže nad Myjavou",
-    "OBEC": "Stráže nad Myjavou",
-    "OKRES": "Senica",
-    "PSC": "908 41",
-    "DPOSTA": "Šaštín-Stráže 1",
-    "POSTA": "Šaštín-Stráže 1",
-    "KOD_OKR": 205,
-    "KRAJ": "TA"
-  },
-  {
-    "DOBEC": "Šaštín-Stráže - Šaštín",
-    "OBEC": "Šaštín",
     "OKRES": "Senica",
     "PSC": "908 41",
     "DPOSTA": "Šaštín-Stráže 1",
@@ -37360,18 +37190,8 @@
     "KRAJ": "BC"
   },
   {
-    "DOBEC": "Vígľašská Huta-Kalinka - Kalinka",
-    "OBEC": "Kalinka",
-    "OKRES": "Detva",
-    "PSC": "962 25",
-    "DPOSTA": "Slatinské Lazy",
-    "POSTA": "Slatinské Lazy",
-    "KOD_OKR": 604,
-    "KRAJ": "BC"
-  },
-  {
-    "DOBEC": "Vígľašská Huta-Kalinka - Vígľašská Huta",
-    "OBEC": "Vígľašská Huta",
+    "DOBEC": "Vígľašská Huta-Kalinka",
+    "OBEC": "Vígľašská Huta-Kalinka",
     "OKRES": "Detva",
     "PSC": "962 25",
     "DPOSTA": "Slatinské Lazy",
@@ -38210,7 +38030,7 @@
     "KRAJ": "PV"
   },
   {
-    "DOBEC": "Výčapy - Opatovce",
+    "DOBEC": "Výčapy-Opatovce",
     "OBEC": "Výčapy - Opatovce",
     "OKRES": "Nitra",
     "PSC": "951 44",
@@ -40620,28 +40440,8 @@
     "KRAJ": "NI"
   },
   {
-    "DOBEC": "Žitná - Radiša",
+    "DOBEC": "Žitná-Radiša",
     "OBEC": "Žitná - Radiša",
-    "OKRES": "Bánovce nad Bebravou",
-    "PSC": "956 41",
-    "DPOSTA": "Uhrovec",
-    "POSTA": "Uhrovec",
-    "KOD_OKR": 301,
-    "KRAJ": "TC"
-  },
-  {
-    "DOBEC": "Žitná-Radiša - Radiša",
-    "OBEC": "Radiša",
-    "OKRES": "Bánovce nad Bebravou",
-    "PSC": "956 41",
-    "DPOSTA": "Uhrovec",
-    "POSTA": "Uhrovec",
-    "KOD_OKR": 301,
-    "KRAJ": "TC"
-  },
-  {
-    "DOBEC": "Žitná-Radiša - Žitná",
-    "OBEC": "Žitná",
     "OKRES": "Bánovce nad Bebravou",
     "PSC": "956 41",
     "DPOSTA": "Uhrovec",
