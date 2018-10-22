@@ -106,7 +106,6 @@ Belá nad Cirochou;Belá nad Cirochou;Snina;067 81;Belá nad Cirochou;Belá nad 
 Beladice;Beladice;Zlaté Moravce;951 75;Beladice;Beladice;407;NI
 Beladice - Pustý Chotár;Pustý Chotár;Zlaté Moravce;951 75;Beladice;Beladice;407;NI
 Belá-Dulice;Belá - Dulice;Martin;038 11;Belá pri Martine;Belá pri Martine;506;ZI
-Belá-Dulice - Dulice;Dulice;Martin;038 11;Belá pri Martine;Belá pri Martine;506;ZI
 Belejovce;Belejovce;Svidník;089 01;Svidník;Svidník;712;PV
 Belek;Belek;Nové Zámky;941 48;Podhájska;Podhájska;404;NI
 Belín;Belín;Rimavská Sobota;980 01;Rimavské Janovce;Rimavské Janovce;609;BC
@@ -359,9 +358,7 @@ Bziny;Bziny;Dolný Kubín;026 01;Dolný Kubín 1;Dolný Kubín 1;503;ZI
 Bzovík;Bzovík;Krupina;962 41;Bzovík;Bzovík;605;BC
 Bzovská Lehôtka;Bzovská Lehôtka;Zvolen;962 62;Sása;Sása;611;BC
 Bžany;Bžany;Stropkov;090 33;Turany nad Ondavou;Turany nad Ondavou;711;PV
-Cabaj - Čápor;Cabaj - Čápor;Nitra;951 17;Cabaj- Čápor;Cabaj- Čápor;403;NI
-Cabaj-Čápor - Cabaj;Cabaj;Nitra;951 17;Cabaj- Čápor;Cabaj- Čápor;403;NI
-Cabaj-Čápor - Čápor;Čápor;Nitra;951 17;Cabaj- Čápor;Cabaj- Čápor;403;NI
+Cabaj-Čápor;Cabaj - Čápor;Nitra;951 17;Cabaj-Čápor;Cabaj-Čápor;403;NI
 Cabov;Cabov;Vranov nad Topľou;094 14;Sečovská Polianka;Sečovská Polianka;713;PV
 Cakov;Cakov;Rimavská Sobota;980 42;Rimavská Seč;Rimavská Seč;609;BC
 Cejkov;Cejkov;Trebišov;076 05;Cejkov;Cejkov;811;KI
@@ -686,7 +683,7 @@ Dubnička;Dubnička;Bánovce nad Bebravou;957 03;Bánovce nad Bebravou 1;Bánovc
 Dubník;Dubník;Nové Zámky;941 35;Dubník pri Nových Zámkoch;Dubník pri N.Zámkoch;404;NI
 Dubník - Dvor Mikuláš;Dvor Mikuláš;Nové Zámky;941 35;Dubník pri Nových Zámkoch;Dubník pri N. Zámkoc;404;NI
 Dubno;Dubno;Rimavská Sobota;980 35;Gemerský Jablonec;Gemerský Jablonec;609;BC
-Dubodiel;Dubodiel;Trenčín;913 23;Dubodiel;Dubodiel;309;TC
+Dubodiel;Dubodiel;Trenčín;913 23;Trenčianske Jastrabie;Trenčianske Jastrabie;309;TC
 Dubová;Dubová;Pezinok;900 90;Dubová pri Modre;Dubová pri Modre;107;BL
 Dubová;Dubová;Svidník;090 11;Vyšný Orlík;Vyšný Orlík;712;PV
 Dubovany;Dubovany;Piešťany;922 08;Veselé pri Piešťanoch;Veselé pri Piešťan.;204;TA
@@ -737,9 +734,8 @@ Dvorec;Dvorec;Bánovce nad Bebravou;956 55;Veľké Chlievany;Veľké Chlievany;3
 Dvorianky;Dvorianky;Trebišov;076 62;Parchovany;Parchovany;811;KI
 Dvorianky - Kinčeš;Kinčeš;Trebišov;076 62;Parchovany;Parchovany;811;KI
 Dvorníky;Dvorníky;Hlohovec;920 56;Dvorníky nad Váhom;Dvorníky nad Váhom;203;TA
-Dvorníky;Dvorníky;Košice - okolie;044 02;Turňa nad Bodvou;Turňa nad Bodvou;806;KI
 Dvorníky - Posádka;Posádka;Hlohovec;920 56;Dvorníky nad Váhom;Dvorníky nad Váhom;203;TA
-Dvorníky - Včeláre;Dvorníky - Včeláre;Košice - okolie;044 02;Turňa nad Bodvou;Turňa nad Bodvou;806;KI
+Dvorníky-Včeláre;Dvorníky - Včeláre;Košice - okolie;044 02;Turňa nad Bodvou;Turňa nad Bodvou;806;KI
 Dvory nad Žitavou;Dvory nad Žitavou;Nové Zámky;941 31;Dvory nad Žitavou;Dvory nad Žitavou;404;NI
 Egreš;Egreš;Trebišov;075 01;Trebišov 1;Trebišov 1;811;KI
 Fačkov;Fačkov;Žilina;013 15;Rajecká Lesná;Rajecká Lesná;511;ZI
@@ -813,7 +809,7 @@ Gortva;Gortva;Rimavská Sobota;980 02;Jesenské;Jesenské;609;BC
 Gôtovany;Gôtovany;Liptovský Mikuláš;032 14;Ľubeľa;Ľubeľa;505;ZI
 Gôtovany - Fiačice;Fiačice;Liptovský Mikuláš;032 14;Ľubeľa;Ľubeľa;505;ZI
 Grajciar;Grajciar;Košice - okolie;044 57;Haniska pri Košiciach;Haniska p. Košiciach;806;KI
-Granč - Petrovce;Granč - Petrovce;Levoča;053 05;Beharovce;Beharovce;704;PV
+Granč-Petrovce;Granč - Petrovce;Levoča;053 05;Beharovce;Beharovce;704;PV
 Gregorova Vieska;Gregorova Vieska;Lučenec;985 56;Tomášovce;Tomášovce;606;BC
 Gregorovce;Gregorovce;Prešov;082 66;Uzovce;Uzovce;707;PV
 Gregorovce;Gregorovce;Revúca;982 52;Nižná Kaloša;Nižná Kaloša;608;BC
@@ -834,8 +830,6 @@ Haláčovce;Haláčovce;Bánovce nad Bebravou;956 55;Veľké Chlievany;Veľké C
 Halič;Halič;Lučenec;;;Pozri zoz.ulíc s PSČ;606;BC
 Haligovce;Haligovce;Stará Ľubovňa;065 34;Veľká Lesná;Veľká Lesná;710;PV
 Haluzice;Haluzice;Nové Mesto n.Váhom;913 07;Bošáca;Bošáca;304;TC
-Hámre - Dolné Hámre;Hámre - Dolné Hámre;Žarnovica;966 61;Hodruša-Hámre 1;Hodruša-Hámre 1;612;BC
-Hámre - Horné Hámre;Hámre - Horné Hámre;Žarnovica;966 71;Horné Hámre;Horné Hámre;612;BC
 Hamuliakovo;Hamuliakovo;Senec;900 43;Hamuliakovo;Hamuliakovo;108;BL
 Handlová;Handlová;Prievidza;972 51;Handlová;Handlová;307;TC
 Handlová - Morovno;Morovno;Prievidza;972 31;Ráztočno;Ráztočno;307;TC
@@ -897,9 +891,10 @@ Hnúšťa - Polom;Polom;Rimavská Sobota;981 01;Hnúšťa 1;Hnúšťa 1;609;BC
 Hodejov;Hodejov;Rimavská Sobota;980 31;Hodejov;Hodejov;609;BC
 Hodejovec;Hodejovec;Rimavská Sobota;980 02;Jesenské;Jesenské;609;BC
 Hodkovce;Hodkovce;Košice - okolie;044 21;Šemša;Šemša;806;KI
-Hodruša - Hámre;Hodruša - Hámre;Žarnovica;966 61;Hodruša-Hámre 1;Hodruša-Hámre 1;612;BC
+Hodruša-Hámre;Hodruša - Hámre;Žarnovica;966 61;Hodruša-Hámre 1;Hodruša-Hámre 1;612;BC
 Hodruša-Hámre - Banská Hodruša;Banská Hodruša;Žarnovica;966 63;Hodruša-Hámre 1;Hodruša-Hámre 1;612;BC
 Hodruša-Hámre - Dolné Hámre;Dolné Hámre;Žarnovica;966 61;Hodruša-Hámre 1;Hodruša-Hámre 1;612;BC
+Horné Hámre;Horné Hámre;Žarnovica;966 71;Horné Hámre;Horné Hámre;612;BC
 Hodruša-Hámre - Kopanice;Kopanice;Žarnovica;966 61;Hodruša-Hámre 1;Hodruša-Hámre 1;612;BC
 Hokovce;Hokovce;Levice;935 84;Horné Semerovce;Horné Semerovce;402;NI
 Hokovce - Kráľovičová;Kráľovičová;Levice;935 84;Horné Semerovce;Horné Semerovce;402;NI
@@ -1084,7 +1079,7 @@ Hronské Kľačany;Hronské Kľačany;Levice;;;Pozri zoz.ulíc s PSČ;402;NI
 Hronské Kosihy;Hronské Kosihy;Levice;935 27;Hronské Kosihy;Hronské Kosihy;402;NI
 Hronský Beňadik;Hronský Beňadik;Žarnovica;966 53;Hronský Beňadik;Hronský Beňadik;612;BC
 Hronský Beňadik - Psiare;Psiare;Žarnovica;966 53;Hronský Beňadik;Hronský Beňadik;612;BC
-Hrubá Borša;Hrubá Borša;Senec;925 23;Jelka;Jelka;108;BL
+Hrubá Borša;Hrubá Borša;Senec;900 50;Kráľová pri Senci;Kráľová pri Senci;108;BL
 Hrubá Strana;Hrubá Strana;Nové Mesto n.Váhom;916 11;Bzince pod Javorinou;Bzince pod Javorinou;304;TC
 Hruboňovo;Hruboňovo;Nitra;951 25;Hruboňovo pri Nitre;Hruboňovo pri Nitre;403;NI
 Hruboňovo - Suľany;Suľany;Nitra;951 25;Hruboňovo pri Nitre;Hruboňovo pri Nitre;403;NI
@@ -1142,7 +1137,6 @@ Chminianska Nová Ves - Bunde;Bunde;Prešov;082 33;Chminianska Nová Ves;Chminia
 Chminianske Jakubovany;Chminian. Jakubovany;Prešov;082 33;Chminianska Nová Ves;Chminianska Nová Ves;707;PV
 Choča;Choča;Zlaté Moravce;951 76;Tesárske Mlyňany;Tesárske Mlyňany;407;NI
 Chocholná-Velčice;Chocholná-Velčice;Trenčín;913 04;Chocholná-Velčice;Chocholná-Velčice;309;TC
-Chocholná-Velčice - Kykula;Kykula;Trenčín;913 04;Chocholná-Velčice;Chocholná-Velčice;309;TC
 Choňkovce;Choňkovce;Sobrance;072 63;Choňkovce;Choňkovce;809;KI
 Chorvátsky Grob;Chorvátsky Grob;Senec;900 25;Chorvátsky Grob;Chorvátsky Grob;108;BL
 Chorváty;Chorváty;Košice - okolie;044 02;Turňa nad Bodvou;Turňa nad Bodvou;806;KI
@@ -1154,7 +1148,7 @@ Chrasť nad Hornádom;Chrasť nad Hornádom;Spišská Nová Ves;053 63;Spišský
 Chrastince;Chrastince;Veľký Krtíš;991 08;Lesenice;Lesenice;610;BC
 Chrastné;Chrastné;Košice - okolie;044 44;Kráľovce pri Košiciach;Kráľovce pri Koš.;806;KI
 Chrašťany;Chrašťany;Zlaté Moravce;951 75;Beladice;Beladice;407;NI
-Chrenovec - Brusno;Chrenovec - Brusno;Prievidza;972 32;Chrenovec;Chrenovec;307;TC
+Chrenovec-Brusno;Chrenovec - Brusno;Prievidza;972 32;Chrenovec;Chrenovec;307;TC
 Chropov;Chropov;Skalica;908 64;Chropov;Chropov;206;TA
 Chrťany;Chrťany;Veľký Krtíš;991 21;Závada;Závada;610;BC
 Chtelnica;Chtelnica;Piešťany;922 05;Chtelnica;Chtelnica;204;TA
@@ -1408,7 +1402,7 @@ Kojšov;Kojšov;Gelnica;055 52;Kojšov;Kojšov;801;KI
 Kokava nad Rimavicou;Kokava nad Rimavicou;Poltár;985 05;Kokava nad Rimavicou;Kokava nad Rimavicou;607;BC
 Kokošovce;Kokošovce;Prešov;082 52;Kokošovce;Kokošovce;707;PV
 Kokošovce - Sigord;Sigord;Prešov;082 52;Kokošovce;Kokošovce;707;PV
-Kokšov - Bakša;Kokšov - Bakša;Košice - okolie;044 13;Valaliky;Valaliky;806;KI
+Kokšov-Bakša;Kokšov - Bakša;Košice - okolie;044 13;Valaliky;Valaliky;806;KI
 Kolačkov;Kolačkov;Stará Ľubovňa;065 11;Nová Ľubovňa;Nová Ľubovňa;710;PV
 Kolačno;Kolačno;Partizánske;958 41;Veľké Uherce;Veľké Uherce;305;TC
 Koláre;Koláre;Veľký Krtíš;991 09;Veľká Čalomija;Veľká Čalomija;610;BC
@@ -1473,7 +1467,7 @@ Kostoľany nad Hornádom;Kostoľany n/Hornádom;Košice - okolie;044 31;Družste
 Kostoľany pod Tribečom;Kostoľany p/Tribečom;Zlaté Moravce;951 77;Ladice;Ladice;407;NI
 Kostolec;Kostolec;Považská Bystrica;017 05;Považská Bystrica 5;Považská Bystrica 5;306;TC
 Kostolište;Kostolište;Malacky;900 62;Kostolište;Kostolište;106;BL
-Kostolná - Záriečie;Kostolná - Záriečie;Trenčín;913 04;Chocholná-Velčice;Chocholná-Velčice;309;TC
+Kostolná-Záriečie;Kostolná - Záriečie;Trenčín;913 04;Chocholná-Velčice;Chocholná-Velčice;309;TC
 Kostolná pri Dunaji;Kostolná pri Dunaji;Senec;903 01;Senec;Senec;108;BL
 Kostolná Ves;Kostolná Ves;Prievidza;972 26;Nitrianske Rudno;Nitrianske Rudno;307;TC
 Kostolné;Kostolné;Myjava;916 13;Kostolné;Kostolné;303;TC
@@ -1573,16 +1567,9 @@ Kráľová pri Senci - Bodov;Bodov;Senec;903 01;Senec;Senec;108;BL
 Kráľová pri Senci - okrem časti Bodov;Kráľová pri Senci;Senec;900 50;Kráľová pri Senci;Kráľová pri Senci;108;BL
 Kraľovany;Kraľovany;Dolný Kubín;027 51;Kraľovany;Kraľovany;503;ZI
 Kráľovce;Kráľovce;Košice - okolie;044 44;Kráľovce pri Košiciach;Kráľovce pri Koš.;806;KI
-Kráľovce - Krnišov;Kráľovce - Krnišov;Krupina;962 65;Hontianske Nemce;Hontianske Nemce;605;BC
-Kráľovce-Krnišov - Kráľovce;Kráľovce;Krupina;962 65;Hontianske Nemce;Hontianske Nemce;605;BC
-Kráľovce-Krnišov - Krnišov;Krnišov;Krupina;962 65;Hontianske Nemce;Hontianske Nemce;605;BC
+Kráľovce-Krnišov;Kráľovce - Krnišov;Krupina;962 65;Hontianske Nemce;Hontianske Nemce;605;BC
 Kráľovičove Kračany;Kráľovičove Kračany;Dunajská Streda;930 03;Kráľovičove Kračany;Kráľovičove Kračany;201;TA
-Kráľovičove Kračany - Etreho Kračany;Etreho Kračany;Dunajská Streda;930 03;Kráľovičove Kračany;Kráľovičove Kračany;201;TA
-Kráľovičove Kračany - Jastrabie Kračany;Jastrabie Kračany;Dunajská Streda;930 03;Kráľovičove Kračany;Kráľovičove Kračany;201;TA
-Kráľovičove Kračany - Kľúčiarove Kračany;Kľúčiarove Kračany;Dunajská Streda;930 03;Kráľovičove Kračany;Kráľovičove Kračany;201;TA
-Kráľovičove Kračany - Lesné Kračany;Lesné Kračany;Dunajská Streda;930 03;Kráľovičove Kračany;Kráľovičove Kračany;201;TA
 Kráľovský Chlmec;Kráľovský Chlmec;Trebišov;077 01;Kráľovský Chlmec 1;Kráľovský Chlmec 1;811;KI
-Kráľovský Chlmec - Fejséš;Fejséš;Trebišov;077 01;Kráľovský Chlmec 1;Kráľovský Chlmec 1;811;KI
 Kraskovo;Kraskovo;Rimavská Sobota;980 26;Lukovištia;Lukovištia;609;BC
 Krásna Lúka;Krásna Lúka;Sabinov;082 73;Šarišské Dravce;Šarišské Dravce;708;PV
 Krásna Ves;Krásna Ves;Bánovce nad Bebravou;956 53;Slatina nad Bebravou;Slatina nad Bebravou;301;TC
@@ -1615,7 +1602,7 @@ Krivé;Krivé;Bardejov;086 04;Kružlov;Kružlov;701;PV
 Krivec I;Krivec I;Detva;962 05;Hriňová;Hriňová;604;BC
 Krivec II;Krivec II;Detva;962 05;Hriňová;Hriňová;604;BC
 Krivoklát;Krivoklát;Ilava;018 52;Pruské;Pruské;302;TC
-Krivosúd - Bodovka;Krivosúd - Bodovka;Trenčín;913 11;Trenčianske Stankovce;Trenč.Stankovce;309;TC
+Krivosúd-Bodovka;Krivosúd - Bodovka;Trenčín;913 11;Trenčianske Stankovce;Trenč.Stankovce;309;TC
 Kríž nad Váhom;Kríž nad Váhom;Nové Mesto n.Váhom;916 26;Považany;Považany;304;TC
 Kríže;Kríže;Bardejov;086 04;Kružlov;Kružlov;701;PV
 Krížová Ves;Krížová Ves;Kežmarok;059 01;Spišská Belá;Spišská Belá;703;PV
@@ -1876,9 +1863,7 @@ Lopušné Pažite - Pažite;Pažite;Kysucké Nové Mesto;023 36;Radoľa;Radoľa;
 Lošonec;Lošonec;Trnava;919 04;Smolenice;Smolenice;207;TA
 Lovce;Lovce;Zlaté Moravce;951 92;Lovce;Lovce;407;NI
 Lovča;Lovča;Žiar nad Hronom;966 21;Lovča;Lovča;613;BC
-Lovčica - Trubín;Lovčica - Trubín;Žiar nad Hronom;966 23;Lovčica-Trubín;Lovčica-Trubín;613;BC
-Lovčica-Trubín - Lovčica;Lovčica;Žiar nad Hronom;966 23;Lovčica-Trubín;Lovčica-Trubín;613;BC
-Lovčica-Trubín - Trubín;Trubín;Žiar nad Hronom;966 23;Lovčica-Trubín;Lovčica-Trubín;613;BC
+Lovčica-Trubín;Lovčica - Trubín;Žiar nad Hronom;966 23;Lovčica-Trubín;Lovčica-Trubín;613;BC
 Lovinobaňa;Lovinobaňa;Lučenec;985 54;Lovinobaňa;Lovinobaňa;606;BC
 Lovinobaňa - Uderiná;Uderiná;Lučenec;985 54;Lovinobaňa;Lovinobaňa;606;BC
 Lozorno;Lozorno;Malacky;900 55;Lozorno;Lozorno;106;BL
@@ -1910,6 +1895,7 @@ Lučenec - Malá Ves;Malá Ves;Lučenec;984 01;Lučenec 1;Lučenec 1;606;BC
 Lučenec - Opatová;Opatová;Lučenec;984 01;Lučenec 1;Lučenec 1;606;BC
 Lúčina;Lúčina;Prešov;082 07;Tuhrina;Tuhrina;707;PV
 Lučivná;Lučivná;Poprad;059 31;Lučivná 1;Lučivná 1;706;PV
+Lučivná - Lopušná Dolina;Lučivná-Lopušná Dolina;Poprad;059 21;Svit 1;Svit 1;706;PV
 Lúčka;Lúčka;Levoča;053 03;Jablonov pri Levoči;Jablonov pri Levoči;704;PV
 Lúčka;Lúčka;Rožňava;049 42;Drnava;Drnava;808;KI
 Lúčka;Lúčka;Sabinov;082 71;Lipany nad Torysou;Lipany nad Torysou;708;PV
@@ -2219,9 +2205,7 @@ Nedanovce;Nedanovce;Partizánske;958 43;Krásno pri Topoľčanoch;Krásno pri To
 Nedašovce;Nedašovce;Bánovce nad Bebravou;956 35;Nedašovce pri Topoľčanoch;Nedašovce pri Top.;301;TC
 Neded;Neded;Šaľa;925 85;Neded;Neded;405;NI
 Nededza;Nededza;Žilina;013 02;Gbeľany pri Žiline;Gbeľany pri Žiline;511;ZI
-Nedožery - Brezany;Nedožery - Brezany;Prievidza;972 12;Nedožery;Nedožery;307;TC
-Nedožery-Brezany - Brezany;Brezany;Prievidza;972 12;Nedožery;Nedožery;307;TC
-Nedožery-Brezany - Nedožery;Nedožery;Prievidza;972 12;Nedožery;Nedožery;307;TC
+Nedožery-Brezany;Nedožery - Brezany;Prievidza;972 12;Nedožery;Nedožery;307;TC
 Nechválova Polianka;Nechválova Polianka;Humenné;067 33;Papín;Papín;702;PV
 Nemce;Nemce;Banská Bystrica;974 01;Banská Bystrica 1;Banská Bystrica 1;601;BC
 Nemcovce;Nemcovce;Bardejov;086 12;Kurima;Kurima;701;PV
@@ -2481,7 +2465,10 @@ Ovčiarsko;Ovčiarsko;Žilina;010 04;Žilina 4;Žilina 4;511;ZI
 Ovčie;Ovčie;Prešov;082 38;Víťaz;Víťaz;707;PV
 Ozdín;Ozdín;Poltár;985 24;Rovňany;Rovňany;607;BC
 Ozdín - Bystrička;Bystrička;Poltár;985 24;Rovňany;Rovňany;607;BC
-Ožďany;Ožďany;Rimavská Sobota;980 11;Ožďany;Ožďany;609;BC
+Ožďany;Ožďany;Rimavská Sobota;980 11;Ožďany;pozri detail SČ;609;BC
+Ožďany - Antalka;Ožďany;Rimavská Sobota;979 01;Rimavská Sobota 1;pozri detail SČ;609;BC
+Ožďany - Čierna Lúka;Ožďany;Rimavská Sobota;979 01;Rimavská Sobota 1;pozri detail SČ;609;BC
+Ožďany - Molnárka;Ožďany;Rimavská Sobota;979 01;Rimavská Sobota 1;pozri detail SČ;609;BC
 Pača;Pača;Rožňava;049 41;Krásnohorské Podhradie;Krásnohor.Podhradie;808;KI
 Padáň;Padáň;Dunajská Streda;929 01;Dunajská Streda 1;Dunajská Streda 1;201;TA
 Padarovce;Padarovce;Rimavská Sobota;980 23;Teplý Vrch;Teplý Vrch;609;BC
@@ -2538,7 +2525,7 @@ Pečenice;Pečenice;Levice;935 03;Bátovce;Bátovce;402;NI
 Pečovská Nová Ves;Pečovská Nová Ves;Sabinov;082 56;Pečovská Nová Ves;Pečovská Nová Ves;708;PV
 Peder;Peder;Košice - okolie;044 05;Janík;Janík;806;KI
 Perín;Perín;Košice - okolie;044 74;Perín-Chym;Perín-Chym;806;KI
-Perín - Chym;Perín - Chym;Košice - okolie;044 74;Perín-Chym;Perín-Chym;806;KI
+Perín-Chym;Perín - Chym;Košice - okolie;044 74;Perín-Chym;Perín-Chym;806;KI
 Pernek;Pernek;Malacky;900 53;Pernek pri Malackách;Pernek pri Malackách;106;BL
 Petkovce;Petkovce;Vranov nad Topľou;094 33;Vyšný Žipov;Vyšný Žipov;713;PV
 Petrikovce;Petrikovce;Michalovce;072 06;Malčice;Malčice;807;KI
@@ -2581,7 +2568,7 @@ Plavnica;Plavnica;Stará Ľubovňa;065 45;Plavnica;Plavnica;710;PV
 Plechotice;Plechotice;Trebišov;075 01;Trebišov 1;Trebišov 1;811;KI
 Pleš;Pleš;Lučenec;985 31;Rapovce;Rapovce;606;BC
 Plešivec;Plešivec;Rožňava;049 11;Plešivec;Plešivec;808;KI
-Plevník - Drienové;Plevník - Drienové;Považská Bystrica;018 26;Plevník-Drienové;Plevník-Drienové;306;TC
+Plevník-Drienové;Plevník - Drienové;Považská Bystrica;018 26;Plevník-Drienové;Plevník-Drienové;306;TC
 Pliešovce;Pliešovce;Zvolen;962 63;Pliešovce 1;Pliešovce 1;611;BC
 Pliešovce - Dolinky;Dolinky;Zvolen;962 63;Pliešovce 1;Pliešovce 1;611;BC
 Pliešovce - Lonec;Lonec;Zvolen;962 63;Pliešovce 1;Pliešovce 1;611;BC
@@ -2973,9 +2960,7 @@ Sása;Sása;Revúca;982 65;Ratková;Ratková;608;BC
 Sása;Sása;Zvolen;962 62;Sása;Sása;611;BC
 Sasinkovo;Sasinkovo;Hlohovec;920 65;Sasinkovo;Sasinkovo;203;TA
 Sazdice;Sazdice;Levice;935 85;Demandice;Demandice;402;NI
-Sebedín - Bečov;Sebedín - Bečov;Banská Bystrica;974 01;Banská Bystrica 1;Banská Bystrica 1;601;BC
-Sebedín-Bečov - Bečov;Bečov;Banská Bystrica;974 01;Banská Bystrica 1;Banská Bystrica 1;601;BC
-Sebedín-Bečov - Sebedín;Sebedín;Banská Bystrica;974 01;Banská Bystrica 1;Banská Bystrica 1;601;BC
+Sebedín-Bečov;Sebedín - Bečov;Banská Bystrica;974 01;Banská Bystrica 1;Banská Bystrica 1;601;BC
 Sebedražie;Sebedražie;Prievidza;972 05;Sebedražie;Sebedražie;307;TC
 Sebechleby;Sebechleby;Krupina;962 66;Sebechleby pri Krupine;Sebechleby pri Krup.;605;BC
 Seč;Seč;Prievidza;972 26;Nitrianske Rudno;Nitrianske Rudno;307;TC
@@ -3172,11 +3157,11 @@ Staré Hory - Valentová;Valentová;Banská Bystrica;976 02;Staré Hory;Staré H
 Starina;Starina;Stará Ľubovňa;065 46;Malý Lipník;Malý Lipník;710;PV
 Starý Hrádok;Starý Hrádok;Levice;935 56;Mýtne Ludany;Mýtne Ludany;402;NI
 Starý Tekov;Starý Tekov;Levice;935 26;Starý Tekov;Starý Tekov;402;NI
-Staškov;Staškov;Čadca;023 53;Staškov;Staškov;502;ZI
+Staškov;Staškov;Čadca;;;pozri detail SČ;502;ZI
 Staškovce;Staškovce;Stropkov;090 23;Havaj;Havaj;711;PV
 Stebnícka Huta;Stebnícka Huta;Bardejov;086 33;Zborov;Zborov;701;PV
 Stebník;Stebník;Bardejov;086 33;Zborov;Zborov;701;PV
-Stožok;Stožok;Detva;;;Pozri zoz.ulíc s PSČ;604;BC
+Stožok;Stožok;Detva;;;pozri detail SČ;604;BC
 Stráňany;Stráňany;Stará Ľubovňa;065 33;Veľký Lipník;Veľký Lipník;710;PV
 Stráňavy;Stráňavy;Žilina;013 25;Stráňavy;Stráňavy;511;ZI
 Stráne pod Tatrami;Stráne pod Tatrami;Kežmarok;059 76;Mlynčeky;Mlynčeky;703;PV
@@ -3287,9 +3272,7 @@ Svrčinovec;Svrčinovec;Čadca;023 12;Svrčinovec;Svrčinovec;502;ZI
 Šarovce;Šarovce;Levice;935 52;Šarovce;Šarovce;402;NI
 Šarovce - Veselá;Veselá;Levice;935 52;Šarovce;Šarovce;402;NI
 Šašová;Šašová;Bardejov;086 12;Kurima;Kurima;701;PV
-Šaštín - Stráže;Šaštín - Stráže;Senica;908 41;Šaštín-Stráže 1;Šaštín-Stráže 1;205;TA
-Šaštín-Stráže - Stráže nad Myjavou;Stráže nad Myjavou;Senica;908 41;Šaštín-Stráže 1;Šaštín-Stráže 1;205;TA
-Šaštín-Stráže - Šaštín;Šaštín;Senica;908 41;Šaštín-Stráže 1;Šaštín-Stráže 1;205;TA
+Šaštín-Stráže;Šaštín - Stráže;Senica;908 41;Šaštín-Stráže 1;Šaštín-Stráže 1;205;TA
 Šávoľ;Šávoľ;Lučenec;985 41;Šávoľ;Šávoľ;606;BC
 Šelpice;Šelpice;Trnava;919 09;Bohdanovce nad Trnavou;Bohdanovce nad Trn.;207;TA
 Šemetkovce;Šemetkovce;Svidník;090 03;Ladomirová;Ladomirová;712;PV
@@ -3735,8 +3718,7 @@ Vieska nad Blhom;Vieska nad Blhom;Rimavská Sobota;980 21;Bátka;Bátka;609;BC
 Vieska nad Žitavou;Vieska nad Žitavou;Zlaté Moravce;951 52;Slepčany;Slepčany;407;NI
 Vígľaš;Vígľaš;Detva;;;Pozri zoz.ulíc s PSČ;604;BC
 Vígľaš - Pstruša;Vígľaš - Pstruša;Detva;;;Pozri zoz.ulíc s PSČ;604;BC
-Vígľašská Huta-Kalinka - Kalinka;Kalinka;Detva;962 25;Slatinské Lazy;Slatinské Lazy;604;BC
-Vígľašská Huta-Kalinka - Vígľašská Huta;Vígľašská Huta;Detva;962 25;Slatinské Lazy;Slatinské Lazy;604;BC
+Vígľašská Huta-Kalinka;Vígľašská Huta-Kalinka;Detva;962 25;Slatinské Lazy;Slatinské Lazy;604;BC
 Vikartovce;Vikartovce;Poprad;059 19;Vikartovce;Vikartovce;706;PV
 Vinica;Vinica;Veľký Krtíš;991 28;Vinica;Vinica;610;BC
 Viničky;Viničky;Trebišov;076 31;Streda nad Bodrogom;Streda nad Bodrogom;811;KI
@@ -3820,7 +3802,7 @@ Vrútky;Vrútky;Martin;038 61;Vrútky;Vrútky;506;ZI
 Všechsvätých;Všechsvätých;Košice - okolie;044 13;Valaliky;Valaliky;806;KI
 Vtáčkovce;Vtáčkovce;Košice - okolie;044 47;Kecerovce;Kecerovce;806;KI
 Výborná;Výborná;Kežmarok;059 02;Slovenská Ves;Slovenská Ves;703;PV
-Výčapy - Opatovce;Výčapy - Opatovce;Nitra;951 44;Výčapy-Opatovce;Výčapy-Opatovce;403;NI
+Výčapy-Opatovce;Výčapy - Opatovce;Nitra;951 44;Výčapy-Opatovce;Výčapy-Opatovce;403;NI
 Vydrany;Vydrany;Dunajská Streda;930 16;Vydrany;Vydrany;201;TA
 Vydrná;Vydrná;Púchov;020 53;Lúky;Lúky;308;TC
 Vydrná - Dolinky;Dolinky;Púchov;020 53;Lúky;Lúky;308;TC
@@ -4061,9 +4043,7 @@ Zvončín;Zvončín;Trnava;919 01;Suchá nad Parnou;Suchá nad Parnou;207;TA
 Žírovce;Žírovce;Košice - okolie;044 45;Bidovce;Bidovce;806;KI
 Žitavany;Žitavany;Zlaté Moravce;;;Pozri zoz.ulíc s PSČ;407;NI
 Žitavce;Žitavce;Nitra;952 01;Vráble;Vráble;403;NI
-Žitná - Radiša;Žitná - Radiša;Bánovce nad Bebravou;956 41;Uhrovec;Uhrovec;301;TC
-Žitná-Radiša - Radiša;Radiša;Bánovce nad Bebravou;956 41;Uhrovec;Uhrovec;301;TC
-Žitná-Radiša - Žitná;Žitná;Bánovce nad Bebravou;956 41;Uhrovec;Uhrovec;301;TC
+Žitná-Radiša;Žitná - Radiša;Bánovce nad Bebravou;956 41;Uhrovec;Uhrovec;301;TC
 Žlkovce;Žlkovce;Hlohovec;920 42;Červeník;Červeník;203;TA
 Župčany;Župčany;Prešov;080 01;Prešov 1;Prešov 1;707;PV
 Župkov;Župkov;Žarnovica;966 71;Horné Hámre;Horné Hámre;612;BC
